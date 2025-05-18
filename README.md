@@ -13,11 +13,11 @@ You can see it all soon, when it's are ready to be Published Later.
 # The Adib-Verse Official Web-Site:
 
 ```text
-Official Link / URL: https://www.github.io/NN-dev-8080-3123/Adib-Verse/
+Official Link / URL: https://NN-dev-8080-3123.github.io/Adib-Verse/
 ```
 
 # The pythonid-interpreter PYthon-InDonesia Projects:
 
 ```text
-Official Link / URL: https://www.github.io/NN-dev-8080-3123/pythonid-interpreter/
+Official Link / URL: https://NN-dev-8080-3123.github.io/pythonid-interpreter/
 ```
